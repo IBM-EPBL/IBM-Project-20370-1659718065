@@ -1,0 +1,185 @@
+Connecting to ....
+WiFi connected
+IP address: 
+10.10.0.2
+Reconnecting client to ml58t7.messaging.internetofthings.ibmcloud.com
+iot-2/cmd/test/fmt/String
+subscribe to cmd OK
+
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Reconnecting client to ml58t7.messaging.internetofthings.ibmcloud.com
+iot-2/cmd/test/fmt/String
+subscribe to cmd OK
+
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Reconnecting client to ml58t7.messaging.internetofthings.ibmcloud.com
+iot-2/cmd/test/fmt/String
+subscribe to cmd OK
+
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 24.00°C
+Humidity: 40.0%
+Sending payload: {"temperature_esp":24.00,"humidity_esp":40.00}
+Publish ok
+Temp: 48.00°C
+Humidity: 67.5%
+Sending payload: {"temperature_esp":48.00,"humidity_esp":67.50}
+Publish ok
+Temp: 48.00°C
+Humidity: 67.5%
+Sending payload: {"temperature_esp":48.00,"humidity_esp":67.50}
+Publish ok
+Temp: 48.00°C
+Humidity: 67.5%
+Sending payload: {"temperature_esp":48.00,"humidity_esp":67.50}
+Publish ok
+Temp: 48.00°C
+Humidity: 67.5%
+Sending payload: {"temperature_esp":48.00,"humidity_esp":67.50}
+Publish ok
+Temp: 48.00°C
+Humidity: 67.5%
+Sending payload: {"temperature_esp":48.00,"humidity_esp":67.50}
+Publish ok
+Temp: 48.00°C
+Humidity: 67.5%
+Sending payload: {"temperature_esp":48.00,"humidity_esp":67.50}
+Publish ok
+Reconnecting client to ml58t7.messaging.internetofthings.ibmcloud.com
